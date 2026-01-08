@@ -2,7 +2,7 @@
 
 <h2>1001개의 Tokopedia 제품으로 구성된 샘플 データセット</h2>
 
-![Tokopedia dataset header](https://github.com/luminati-io/Tokopedia-dataset-samples/blob/main/Tokopedia-datasets.png)
+![Tokopedia dataset header](https://github.com/bright-kr/Tokopedia-dataset-samples/blob/main/Tokopedia-datasets.png)
 
 1000개 이상의 레코드로 구성된 Tokopedia データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
